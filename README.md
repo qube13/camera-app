@@ -1,2 +1,2 @@
 # camera-app
-Camera app for testing camera access on Mobile Devices
+Super awesome camera web app built with HTML, CSS, and JS.
